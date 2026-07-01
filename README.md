@@ -44,7 +44,7 @@ amazon-sales-powerbi-dashboard/
 
 ## Dashboard Preview
 
-![Dashboard Overview](Screenshots/dashboard-overview.png)
+Screenshots/dashboard-overview.png
 
 ## Key Insights
 - Identified high-performing product categories

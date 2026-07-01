@@ -34,7 +34,7 @@ amazon-sales-powerbi-dashboard/
 │   └── Amazon Sales.pbix
 │
 ├── Dataset/
-│   └── amazon_sales.csv
+│   └── amazon_sales.xlsx
 │
 ├── Screenshots/
 │   └── dashboard-overview.png

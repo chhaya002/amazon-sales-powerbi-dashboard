@@ -43,8 +43,8 @@ amazon-sales-powerbi-dashboard/
 ```
 
 ## Dashboard Preview
+<img width="1365" height="559" alt="Dashboard" src="https://github.com/user-attachments/assets/14adafcb-5b8a-4e97-9ef5-3b61bcc1557c" />
 
-Screenshots/dashboard-overview.png
 
 ## Key Insights
 - Identified high-performing product categories
